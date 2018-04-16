@@ -1,0 +1,3 @@
+com\base\DTO\Error.class
+com\base\services\LoginService.class
+com\base\DTO\User.class
